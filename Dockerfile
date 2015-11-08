@@ -1,5 +1,4 @@
 FROM debian:latest
-MAINTAINER Meaghan Johnson <mejohn10@ncsu.edu>
 
 # yum installs
 RUN apt-get -y update && apt-get -y install \
