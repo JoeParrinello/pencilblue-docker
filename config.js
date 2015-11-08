@@ -1,18 +1,18 @@
 /**
- *  *  * This is a sample configuration meant to get users and up running on a local 
- *   *   * machine.  The configuration will not support multi-process on a single 
- *    *    * server or multi-server/elastic environments.  For more detailed information 
+ *  *  * This is a sample configuration meant to get users and up running on a local
+ *   *   * machine.  The configuration will not support multi-process on a single
+ *    *    * server or multi-server/elastic environments.  For more detailed information
  *     *     * on the options provided please refer to the /include/config.js file.
- *      *      * 
- *       *       * The file can be renamed to "config.js" in the same directory as this file 
- *        *        * and it will be used as the configuration when PencilBlue is started.  If 
+ *      *      *
+ *       *       * The file can be renamed to "config.js" in the same directory as this file
+ *        *        * and it will be used as the configuration when PencilBlue is started.  If
  *         *         * this file is used then there is no need to create a "config.json"
  *          *          */
 
 module.exports = {
-    "siteName": "My PencilBlue Site",
-    "siteRoot": "http://pencilblue.oscar.priv:49500",
-    "sitePort": 49500,
+    "siteName": "Thanks Dentler",
+    "siteRoot": "http://thanksdentler.com",
+    "sitePort": 5002,
     "logging": {
         "level": "info"
     },
